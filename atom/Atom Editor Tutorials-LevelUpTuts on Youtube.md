@@ -1,1 +1,1 @@
-#Atom Editor Tutorials #1 - Installing Atom#
+#Atom Editor Tutorials 1 - Installing Atom#
